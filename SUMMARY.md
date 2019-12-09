@@ -25,10 +25,4 @@
 
 * [Definición de Concepto](especificaciones/definicion-de-concepto.md)
 * [Registrar Especificaciones de Producto](especificaciones/registrar-especificaciones-de-producto.md)
-* [Registrar Especificaciones de SKU](especificaciones/registrar-especificaciones-de-sku.md)
-
-## Colecciones
-
-* [Definición del concepto](colecciones/definicion-del-concepto.md)
-* [Como registrar](colecciones/como-registrar.md)
 
