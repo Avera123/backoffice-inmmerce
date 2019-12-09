@@ -10,5 +10,7 @@
 
 {% page-ref page="marcas/definicion-de-concepto.md" %}
 
+{% page-ref page="marcas/como-registrar.md" %}
+
 
 
