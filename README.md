@@ -12,5 +12,11 @@
 
 {% page-ref page="marcas/como-registrar.md" %}
 
+## Categorias
+
+{% page-ref page="categorias/definicion-de-concepto.md" %}
+
+{% page-ref page="categorias/como-registrar.md" %}
+
 
 
