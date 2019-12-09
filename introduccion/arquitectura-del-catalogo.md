@@ -21,5 +21,5 @@ Estas especificaciones son, por ejemplo, el tamaño, el color o el voltaje de un
 
 A continuación, vea un esquema de la Arquitectura del Catálogo en VTEX:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
