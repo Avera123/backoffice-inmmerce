@@ -13,10 +13,10 @@
 * [Como registrar](marcas/como-registrar.md)
 * [Tarea](marcas/tarea.md)
 
-## Categorias <a id="categorias-1"></a>
+## Categorias
 
-* [Definición de concepto](categorias-1/definicion-de-concepto.md)
-* [Como registrar](categorias-1/como-registrar.md)
+* [Definición de concepto](categorias/definicion-de-concepto.md)
+* [Como registrar](categorias/como-registrar.md)
 
 ## Especificaciones
 

@@ -14,9 +14,7 @@
 
 ## Categorias
 
-{% page-ref page="categorias-1/definicion-de-concepto.md" %}
+{% page-ref page="categorias/definicion-de-concepto.md" %}
 
-{% page-ref page="categorias-1/como-registrar.md" %}
-
-
+{% page-ref page="categorias/como-registrar.md" %}
 
